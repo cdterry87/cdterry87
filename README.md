@@ -60,7 +60,7 @@
       <img src="https://raw.githubusercontent.com/cdterry87/cdterry87/main/assets/mail-send-line.svg">
     </a>
     &nbsp;&nbsp;
-    <a href="discordapp.com/users/353702942294933505" alt="Add Me On Discord" target="_blank">
+    <a href="https://discordapp.com/users/353702942294933505" alt="Add Me On Discord" target="_blank">
       <img src="https://raw.githubusercontent.com/cdterry87/cdterry87/main/assets/discord-line.svg">
     </a>
     &nbsp;&nbsp;
