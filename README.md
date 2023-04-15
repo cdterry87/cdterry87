@@ -12,6 +12,29 @@
   I am currently working as a software developer for <a href="https://www.lighthousecompliance.com/" target="_blank">Lighthouse Compliance Solutions</a>.
 </p>
   </div>
+  
+---
+
+<div align="center">
+  
+  ### Back-End
+  <img src="https://img.shields.io/badge/PHP-690ae5" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-690ae5" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Node-690ae5" alt="Node" />
+  <img src="https://img.shields.io/badge/MySQL-690ae5" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Linux-690ae5" alt="Linux" />
+  <img src="https://img.shields.io/badge/Apache-690ae5" alt="Apache" />
+  <img src="https://img.shields.io/badge/NGINX-690ae5" alt="NGINX" />
+
+  ### Front-End
+  <img src="https://img.shields.io/badge/CSS-29abbd" alt="CSS" />
+  <img src="https://img.shields.io/badge/HTML-29abbd" alt="HTML" />
+  <img src="https://img.shields.io/badge/JavaScript-29abbd" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-29abbd" alt="React" />
+  <img src="https://img.shields.io/badge/Vue-29abbd" alt="Vue" />
+  <img src="https://img.shields.io/badge/SASS-29abbd" alt="SASS" />
+  <img src="https://img.shields.io/badge/Tailwind-29abbd" alt="Tailwind" />
+</div>
 
 ---
 
@@ -45,6 +68,12 @@
       <img src="https://raw.githubusercontent.com/cdterry87/cdterry87/main/assets/window-line.svg">
     </a>
   </div>
+  
+  <br>
+  
+  <a href="https://visitor-badge.glitch.me/">
+    <img align="center" src="https://page-views.glitch.me/badge?page_id=cdterry87.cdterry87">
+  </a>
 </div>
 
 
