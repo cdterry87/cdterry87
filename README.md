@@ -52,7 +52,7 @@
 <div align="center">
   <p>Feel free to reach out to me on any of the platforms below!</p>
   <div>
-    <a href="https://www.linkedin.com/in/cdterry87/" alt="Find Me On LinkedIn" target="_blank">
+    <a href="https://www.linkedin.com/in/chase-terry" alt="Find Me On LinkedIn" target="_blank">
       <img src="https://raw.githubusercontent.com/cdterry87/cdterry87/main/assets/linkedin-fill.svg">
     </a>
     &nbsp;&nbsp;
