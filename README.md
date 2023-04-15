@@ -5,7 +5,7 @@
 # Hi! I'm Chase, and I am a Full-Stack Web Developer!
 
 <p>
-  I've been coding for over 15 years in the web development industry, primarily building websites and web applications with PHP and JavaScript, but you can check out a more complete list of my technical skills below!
+  I've been coding for over 15 years in the web development industry, primarily building websites and web applications with PHP and JavaScript (and many popular frameworks/libraries), but you can check out a more complete list of my technical skills below!
 </p>
 
 <p>
