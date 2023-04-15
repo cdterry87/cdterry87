@@ -1,14 +1,28 @@
-<img src="https://raw.githubusercontent.com/cdterry87/cdterry87/main/assets/top.svg?v=2" alt="Top Image">
+<img src="https://raw.githubusercontent.com/cdterry87/cdterry87/main/assets/top.svg?v=2" width="100%" alt="Top Image">
 
-### Hi! I'm Chase, and I'm a Full-Stack Web Developer!
+<div align="center">
+
+# Hi! I'm Chase, and I am a Full-Stack Web Developer!
 
 <p>
-  I have been coding for over 15 years in the web development industry. For most of my career, I have been building web applications using PHP using frameworks like CodeIgniter and Laravel. I have also worked in front-end development building websites using the JavaScript libraries Vue and React.
+  I've been coding for over 15 years in the web development industry, primarily building websites and web applications with PHP and JavaScript, but you can check out a more complete list of my technical skills below!
 </p>
 
 <p>
   I am currently working as a software developer for <a href="https://www.lighthousecompliance.com/" target="_blank">Lighthouse Compliance Solutions</a>.
 </p>
+  </div>
+
+---
+
+<div align="center">
+<a href="https://github.com/cdterry87/cdterry87">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdterry87&hide=&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/cdterry87/cdterry87">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cdterry87&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Chase's GitHub Stats" />
+</a>
+</div>
 
 ---
 
@@ -34,4 +48,4 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/cdterry87/cdterry87/main/assets/bottom.svg?v=2" alt="Bottom Image">
+<img src="https://raw.githubusercontent.com/cdterry87/cdterry87/main/assets/bottom.svg?v=2" width="100%" alt="Bottom Image">
