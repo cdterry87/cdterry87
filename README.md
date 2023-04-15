@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/cdterry87/cdterry87/main/assets/top.svg" alt="Top Image">
+<img src="https://raw.githubusercontent.com/cdterry87/cdterry87/main/assets/top.svg?v=2" alt="Top Image">
 
 # Hi! I'm Chase, and I'm a Full-Stack Web Developer!
 
@@ -27,4 +27,4 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/cdterry87/cdterry87/main/assets/bottom.svg" alt="Bottom Image">
+<img src="https://raw.githubusercontent.com/cdterry87/cdterry87/main/assets/bottom.svg?v=2" alt="Bottom Image">
