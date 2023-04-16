@@ -25,6 +25,9 @@
   <img src="https://img.shields.io/badge/Linux-690ae5" alt="Linux" />
   <img src="https://img.shields.io/badge/Apache-690ae5" alt="Apache" />
   <img src="https://img.shields.io/badge/NGINX-690ae5" alt="NGINX" />
+  <img src="https://img.shields.io/badge/Wordpress-690ae5" alt="Wordpress" />
+  <img src="https://img.shields.io/badge/Joomla-690ae5" alt="Joomla" />
+  <img src="https://img.shields.io/badge/TDD-690ae5" alt="Test Driven Development" />
 
 ### Front-End Skills
   <img src="https://img.shields.io/badge/CSS-29abbd" alt="CSS" />
