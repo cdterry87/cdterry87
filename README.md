@@ -71,12 +71,6 @@
       <img src="https://raw.githubusercontent.com/cdterry87/cdterry87/main/assets/window-line.svg">
     </a>
   </div>
-  
-  <br>
-  
-  <a href="https://visitor-badge.glitch.me/">
-    <img align="center" src="https://page-views.glitch.me/badge?page_id=cdterry87.cdterry87">
-  </a>
 </div>
 
 
