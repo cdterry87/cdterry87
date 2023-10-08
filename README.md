@@ -73,5 +73,6 @@
   </div>
 </div>
 
+[![An image of @cdterry87's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cdterry87)](https://holopin.io/@cdterry87)
 
 <img src="https://raw.githubusercontent.com/cdterry87/cdterry87/main/assets/bottom.svg?v=2" width="100%" alt="Bottom Image">
