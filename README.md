@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/cdterry87/cdterry87/main/assets/top.svg?v=2" width="100%" alt="Top Image">
+<!-- <img src="https://raw.githubusercontent.com/cdterry87/cdterry87/main/assets/top.svg?v=2" width="100%" alt="Top Image"> -->
 
 <div align="center">
 
